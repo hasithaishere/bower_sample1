@@ -1,0 +1,25 @@
+{
+  "name": "sample_1",
+  "homepage": "https://github.com/hasithaishere/bower_sample1",
+  "authors": [
+    "Hasitha Gamage <hasitha.gamage@pearson.com>"
+  ],
+  "description": "Test package for bower",
+  "main": "tt.js",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.2"
+  }
+}
