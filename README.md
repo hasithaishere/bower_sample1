@@ -1,1 +1,1 @@
-# bower_sample1
+# Bower Sample project
